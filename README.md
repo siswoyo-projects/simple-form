@@ -10,7 +10,7 @@ This projects is rewritten from https://www.youtube.com/watch?v=x_nfnVU0wAI.
 
 # Step by step
 1. Create DB test_db ; use pgAdmin - management tools for PostgreSQL.
-2.
+2. Generate spring boot project from https://start.spring.io/.
 
 # Tools
 1. PostgreSQL - https://www.postgresql.org/download/windows/
